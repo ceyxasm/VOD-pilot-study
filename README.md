@@ -10,6 +10,7 @@ This repository has been established to analyze and compare video object detecti
 * Please find the final report [here FILL]()
 * The ppt used in the video can be found [here FILL]()
 * Demo video
+
 [![FILL](./assets/image.png)]() 
 ---
 
@@ -22,8 +23,11 @@ cd ./VOD-pilot-study
 
 ---
 #### Dataset used
+
 We used [ImageNet-VidVRD Video Visual Relation Dataset](https://xdshang.github.io/docs/imagenet-vidvrd.html)
+
 ![dataset](./assets/image2.png)
+
 It contains 1,000 videos from ILVSRC2016-VID, split into 800 training and 200 test videos. The dataset covers 35 subject/object categories and 132 predicate categories. Labeled by ten individuals, it includes object trajectory and relation annotations.
 
 #### Literature review references
