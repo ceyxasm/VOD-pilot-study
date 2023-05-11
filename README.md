@@ -1,4 +1,5 @@
 ## Video Object Detection~ A pilot study
+![collage](./assets/collage.jpg)
 
 Contributors
 * <strong>[@brillard1](https://github.com/brillard1)</strong>
@@ -7,9 +8,9 @@ Contributors
 This repository has been established to analyze and compare video object detection models. It explores design choices, differences, and performance while addressing challenges specific to video object detection. We reviewed and implemented [these](./papers/) papers.
 
 #### Youtube Video, Presentation & Report
-* Please find the final report [here FILL]()
+* Please find the final report [here](./B20CS002_B20CS003_VOD_PS.pdf)
 * The ppt used in the video can be found [here FILL]()
-* Demo video
+* YouTube video
 
 [![FILL](./assets/image.png)]() 
 ---
