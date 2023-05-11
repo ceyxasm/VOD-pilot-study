@@ -9,7 +9,7 @@ This repository has been established to analyze and compare video object detecti
 
 ### Youtube Video, Presentation & Report
 * Please find the final report [here](./B20CS002_B20CS003_VOD_PS.pdf)
-* The ppt used in the video can be found [here FILL]()
+* The ppt used in the video can be found [here](./presentation.pdf)
 * YouTube video
 
 [![FILL](./assets/image.png)]() 
